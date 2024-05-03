@@ -1,0 +1,4 @@
+C:\Users\ACER PREDATOR\Documents>python create-webhook.py
+Webhook configuration sent successfully
+[{'trackerId': '186955'}]
+Monitoring : https://public.requestbin.com/r/en46bpo4jrtzz

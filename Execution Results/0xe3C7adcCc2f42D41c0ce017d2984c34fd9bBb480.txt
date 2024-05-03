@@ -1,0 +1,76 @@
+C:\Users\ACER PREDATOR\Documents>python wallet-tracking.py
+[Wallet Address]
+
+0xe3C7adcCc2f42D41c0ce017d2984c34fd9bBb480
+
+[Address Active Chain]
+
++----------------+-----------------+
+| Chain Fullname | Chain Shortname |
++----------------+-----------------+
+|    Ethereum    |       ETH       |
+|    Polygon     |     POLYGON     |
+|     Gnosis     |      GNOSIS     |
+|   BNB Chain    |       BSC       |
++----------------+-----------------+
+
+[Token Holding On ETH]
+
+Native token balance on ETH: 0.028056018313786401 ETH
+ERC-20 Tokens on ETH:
+  - USDT: 822.62
+  - PRIME: 18.000540051029308
+     - Token Holding Value(USD) : 339.23479206984939232314197744136
+     - Total Market Cap : 675655283.69
+     - 24-Hour Trading Volume : 51631019.23713056
+  - WETH: 0.000013625327186385
+     - Token Holding Value(USD) : 0.0419139589842138093
+     - 24-Hour Trading Volume : 9352870048.207455
+Total ERC-20 Tokens value on ETH: 339.2767060288336 USD
+
+[NFT Holding On ETH]
+
+  - Uniswap V3 Positions NFT-V1: 6
+
+[Token Holding On POLYGON]
+
+Native token balance on POLYGON: 0 MATIC
+ERC-20 Tokens on POLYGON:
+  - Visit steth.cc to swap Reward: 9000000000
+  - wHEX: 172500
+  - ACCESS [ETHNA.CC] TO CLAIM: 8273
+  - ACX   [via www.across.events]: 5166
+  - Visit l2-ethena.com to claim rewards: 5000
+  - Holders Eligible: renzpro.xyz: 1
+  - Holders Eligible: therenzo.xyz: 1
+Total ERC-20 Tokens value on POLYGON: 0.0 USD
+
+[NFT Holding On POLYGON]
+
+No NFTs found on POLYGON
+
+[Token Holding On GNOSIS]
+
+Native token balance on GNOSIS: 0 xDAI
+ERC-20 Tokens on GNOSIS:
+  - Claim by link: zirclut.xyz: 150
+  - Claim by link: zirclut.xyz: 100
+Total ERC-20 Tokens value on GNOSIS: 0.0 USD
+
+[Token Holding On BSC]
+
+Native token balance on BSC: 0 BNB
+ERC-20 Tokens on BSC:
+  - Verse: 3000000
+  - 1Gas.org: 92280
+  - ADA: 6.2785
+     - Token Holding Value(USD) : 2.92735114060106306206
+     - 24-Hour Trading Volume : 2408243.259100896
+Total ERC-20 Tokens value on BSC: 2.927351140601063 USD
+
+[Top Interacting Addresses on ETH Chain]
+  - 0xe3c7adccc2f42d41c0ce017d2984c34fd9bbb480 : 30 interactions
+  - 0xc36442b4a4522e871399cd717abdd847ab11fe88 (Uniswap V3 Positions.Positions NFT) : 10 interactions
+  - 0x881d40237659c251811cec9c364ef91dc08d300c : 4 interactions
+  - 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 (Wrapped Ether) : 4 interactions
+  - 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 (Circle.USD Coin) : 3 interactions

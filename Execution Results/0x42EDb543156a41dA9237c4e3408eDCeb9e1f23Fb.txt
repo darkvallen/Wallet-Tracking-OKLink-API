@@ -1,0 +1,305 @@
+C:\Users\ACER PREDATOR\Documents>python wallet-tracking.py
+[Wallet Address]
+
+0x42EDb543156a41dA9237c4e3408eDCeb9e1f23Fb
+
+[Address Active Chain]
+
++----------------+-----------------+
+| Chain Fullname | Chain Shortname |
++----------------+-----------------+
+| POLYGON_ZKEVM  |  POLYGON_ZKEVM  |
+|    Ethereum    |       ETH       |
+|    Polygon     |     POLYGON     |
+|     LINEA      |      LINEA      |
+|     SCROLL     |      SCROLL     |
+|      BASE      |       BASE      |
+|   BNB Chain    |       BSC       |
+|  Avalanche-C   |      AVAXC      |
+| opBNB Mainnet  |      OPBNB      |
+|     Fantom     |       FTM       |
+|     Gnosis     |      GNOSIS     |
+|   OP Mainnet   |        OP       |
+|   zkSync Era   |      ZKSYNC     |
+|  Arbitrum One  |     ARBITRUM    |
+|     KLAYTN     |      KLAYTN     |
++----------------+-----------------+
+
+[Token Holding On POLYGON_ZKEVM]
+
+Native token balance on POLYGON_ZKEVM: 0.00208487728 ETH
+
+[NFT Holding On POLYGON_ZKEVM]
+
+No NFTs found on POLYGON_ZKEVM
+
+[Token Holding On ETH]
+
+Native token balance on ETH: 0.005737793157964573 ETH
+ERC-20 Tokens on ETH:
+  - ZK: 170
+     - Token Holding Value(USD) : 218.957166284154234
+     - 24-Hour Trading Volume : 5356616.480004775
+Total ERC-20 Tokens value on ETH: 218.95716628415423 USD
+
+[NFT Holding On ETH]
+
+  - ShapellaUpgrade: 1
+  - BEB: 1
+  - mint.fun !fundrop pass: 1
+
+[Token Holding On POLYGON]
+
+Native token balance on POLYGON: 3.821873362446581 MATIC
+ERC-20 Tokens on POLYGON:
+  - $USDT > LOOT-USDT.COM 🎁: 10000
+  - $USDT СLАIМ▷lootusdt.com: 10000
+  - ACCESS [ETHNA.CC] TO CLAIM: 9543
+  - ACCESS [ETHNA.CC] TO CLAIM: 8273
+  - ACCESS [LIDO.DOG] TO CLAIM: 4376
+  - EigenLayer airdrop on platform ( Gemradar.site ): 3763
+  - ALT SWAP AT layeralt.com: 1675
+  - $ sUSD: 1165
+  - Swap on: wmatic-swap.com: 800
+  - sUSD [Synthetix.cc]: 733
+  - sUSD [Synthetix.cc]: 598
+  - wSNX: 582.75
+  - www.LINKBonus.io: 159.05
+  - Visit ( https:eigenlayers.site ) to claim: 32
+  - FLWR: 3
+  - RAFFLE TICKET: 3
+  - ENTRY TICKET - www.metawin.land: 2
+  - DA20: 1
+  - Get stETH airdrop ( https:droppradar.space ): 1
+  - zerolends.com: 1
+  - claim rewards on blast2l.com: 1
+  - TIME: 1
+  - Swap it: steth-drop.xyz: 1
+  - Acces Liquid-ether.com to claim rewards: 1
+  - Visit stETH official website:  steth-voucher.site: 1
+  - Visit blast2l.com to claim rewards: 1
+  - Acces blast2l.com to claim reward: 1
+Total ERC-20 Tokens value on POLYGON: 0.0 USD
+
+[NFT Holding On POLYGON]
+
+  - Guild Credential: 1
+  - BNB Chain Luban Upgrade: 1
+  - Lifeform x Polyhedra x Polygon Avatar: 1
+  - Pandra: PixelProwler: 1
+  - [Nym Shipyard 2023] How to Build on Nym: Introduction to Nym SDKs: 1
+  - Galxe - Squid wif Hat - Future of France: 1
+  - Gateway Protocol: 1
+  - Capx (x) Galxe - Test NFT: 1
+  - Polyhedra 2024: 1
+  - Galxe - Squid Wif Hat - Solana : 1
+  - Loyalty Program: 1
+  - Mission Bring ZETA Home: 5
+  - [Nym Shipyard 2023] Nym Advocacy 101: 1
+  - [Nym Shipyard 2023] Setting up a Nym node - tips & tricks and the perfect parameters: 1
+  - Galaxy OAT: 10
+  - Babylon Beacon: 1
+  - lens Handles: 1
+  - Galxe - Squid wif Wizardhat: 1
+  - Mainnet Alpha: 1
+  - [Nym Shipyard 2023] Masterclass #2 — "Metadata — just how much does it reveal about us?" by Claudia Diaz: 1
+  - HashKey DID: 1
+  - : 1
+  - Pandra: EcoGuardian: 1
+  - Premia Finance: 1
+  - Nym Shipyard 2023 | Level 1: Nymster: 1
+  - NFT Badges: 1
+  - Galxe - Squid Wif Pirate Hat : 1
+  - Rarible Bear Pass: 1
+  - Galxe - Squid wif Hat : 1
+  - Pandra: MelodyMaven: 1
+  - [Nym Shipyard 2023] Nymja Squad Ops & RFPs: 1
+  - Pandra: CodeConqueror: 1
+  - [Nym Shipyard 2023] Masterclass #6 — "Exploring decentralised VPNs & anonymous e-cash in Nym": 1
+  - Nym Shipyard 2023 | Level 2: Cadet: 1
+  - Lens Protocol Profiles: 1
+  - Nym Community Town Hall - Q3 2023: 1
+  - [Nym Shipyard 2023] Building on Nym (NTV): 1
+  - [Nym Shipyard 2023] Masterclass #7— "Hardware Optimization for Cryptography-based Applications": 1
+  - [Nym Shipyard 2023] How to run Nym exit nodes: 1
+  - Galxe - Squid Wif Bear Hat : 1
+  - [Nym Shipyard 2023] Level 1 AMA with Sudo, Hux & Jaya: 1
+
+[Token Holding On LINEA]
+
+Native token balance on LINEA: 0.001781613155835 ETH
+
+[Token Holding On SCROLL]
+
+Native token balance on SCROLL: 0.001673628148645974 ETH
+
+[NFT Holding On SCROLL]
+
+  - Degens Of SyncSwap MBADGE S: 1
+
+[Token Holding On BASE]
+
+Native token balance on BASE: 0.01165367393817596 ETH
+ERC-20 Tokens on BASE:
+  - PAUA: 21000000
+  - PAUA: 21000000
+     - Token Holding Value(USD) : 0.067680246879
+  - Airdrop: degen.gifts/?claim: 3645170
+  - Airdrop: degen.gifts/?claim: 3645170
+  - Claim: toshi-thecat.com/?claim: 1752393
+  - Claim on: bloo-foster.com/?claim: 537463
+  - Claim: brettbased.com: 354291
+  - Airdrop on: brettbased.com: 273108
+  - Claim on: bloo-foster.com/?claim: 214815
+  - wSNX: 580
+  - USDbC: 1.063857
+     - Token Holding Value(USD) : 1.0636606648516303706529
+     - 24-Hour Trading Volume : 9395268.522496575
+  - claim rewards on usdc2.com: 1
+  - claim rewards on blast2l.com: 1
+  - Visit blast2l.com to claim rewards: 1
+  - Visit blast2l.com to claim rewards: 1
+  - STG: 0.004285702101098206
+     - Token Holding Value(USD) : 0.0021958859684322999887640526784996
+     - 24-Hour Trading Volume : 695.1454445054645
+Total ERC-20 Tokens value on BASE: 1.133536797699063 USD
+
+[Token Holding On BSC]
+
+Native token balance on BSC: 0.011675484580316513 BNB
+ERC-20 Tokens on BSC:
+  - BSC-Coin: 5000000
+     - Token Holding Value(USD) : 3930.55195157595
+     - 24-Hour Trading Volume : 11791.655854727851
+  - PEPE: 615526.64
+  - MGRT: 120000.576
+  - AI-A: 23000
+  - $ sUSD: 825
+  - USDT: 0.7085726
+     - Token Holding Value(USD) : 0.709082772272
+     - Total Market Cap : 110681501901.21
+     - 24-Hour Trading Volume : 1503500687.7992694
+  - RDNT: 0.000670273687091852
+     - Token Holding Value(USD) : 0.00012588312389670188465309419995
+     - 24-Hour Trading Volume : 1185026.0772751798
+Total ERC-20 Tokens value on BSC: 3931.261160231346 USD
+
+[Token Holding On AVAXC]
+
+Native token balance on AVAXC: 0.024282909460726993 AVAX
+ERC-20 Tokens on AVAXC:
+  - USDC: 8.480141
+     - Token Holding Value(USD) : 8.4826850423
+     - Total Market Cap : 33271968617.03
+     - 24-Hour Trading Volume : 252538650.4235523
+  - DA20: 1
+  - sAVAX: 0.008935639506956677
+     - Token Holding Value(USD) : 0.35992674801609593531771609424549
+     - Total Market Cap : 263088309.94
+     - 24-Hour Trading Volume : 111672271.6213266
+Total ERC-20 Tokens value on AVAXC: 8.842611790316095 USD
+
+[Token Holding On OPBNB]
+
+Native token balance on OPBNB: 0.005393231691998828 BNB
+
+[Token Holding On FTM]
+
+Native token balance on FTM: 2.853523580571748 FTM
+
+[Token Holding On GNOSIS]
+
+Native token balance on GNOSIS: 1.390759912508285357 xDAI
+
+[Token Holding On OP]
+
+Native token balance on OP: 0.001764558961640476 ETH
+ERC-20 Tokens on OP:
+  - PTaOptUSDC: 4
+     - Token Holding Value(USD) : 3.2157160569343068
+     - 24-Hour Trading Volume : 585.4275243223532
+  - OP: 2.6738457254008416
+     - Token Holding Value(USD) : 7.5571770178867443963821250877728
+     - Total Market Cap : 2969780109.72
+     - 24-Hour Trading Volume : 248347618.78373244
+  - DA20: 1
+  - exaWETH: 0.001986827282114208
+     - Token Holding Value(USD) : 6.12073933491795601728
+     - 24-Hour Trading Volume : 37563.06503322511
+Total ERC-20 Tokens value on OP: 16.89363240973901 USD
+
+[NFT Holding On OP]
+
+  - Polyhedra 2024: 1
+  - I Was At Layer0 MBADGE A: 1
+  - Omnichain Adventures: 19
+  - Taiko Alpha-3 Testnet is Live: 1
+  - Galxe OAT: 6
+  - NestedNFT: 1
+  - Free + Valuable: Why I'm Excited About Zora Protocol Rewards: 1
+
+[Token Holding On ZKSYNC]
+
+Native token balance on ZKSYNC: 0.04131437287807992 ETH
+ERC-20 Tokens on ZKSYNC:
+  - ACX   [via www.across.events]: 3134
+  - ETH: 0.04131437287807992
+     - Token Holding Value(USD) : 127.0908607038206691048
+     - Total Market Cap : 370235431660.65
+     - 24-Hour Trading Volume : 376142837.91234154
+  - cbETH: 0.003022766781992274
+     - Token Holding Value(USD) : 9.90858706106221494932747354226
+     - 24-Hour Trading Volume : 119058.50484806202
+  - WBTC: 0.00025742
+     - Token Holding Value(USD) : 15.8735903617998265817
+     - 24-Hour Trading Volume : 1630578.1830083851
+  - nETH: 0.00000001
+Total ERC-20 Tokens value on ZKSYNC: 152.8730381266827 USD
+
+[NFT Holding On ZKSYNC]
+
+  - SyncSwap x Galxe: 1
+  - CitizenID: 1
+  - Karat Network Claimer: 1
+  - ReformistSphinx: 1
+
+[Token Holding On ARBITRUM]
+
+Native token balance on ARBITRUM: 0.003235565671125603 ETH
+ERC-20 Tokens on ARBITRUM:
+  - KURO  [www.kuroro.gg]: 3373955
+  - A-ZKF [www.zkfair.events]: 57864
+  - Visit shiba.claimreward.org to claim reward: 5000
+  - Visit https:3000usdt.vip to claim Airdrop: 3000
+  - Visit https:5eth.vip to claim Airdrop: 3000
+  - OX: 5
+     - Token Holding Value(USD) : 0.0777681638210808
+     - 24-Hour Trading Volume : 87579.40203363099
+  - ARB: 4.86711125
+     - Token Holding Value(USD) : 5.22263008357052813566725
+     - Total Market Cap : 2852563630.03
+     - 24-Hour Trading Volume : 361723914.22046053
+  - MMY: 4.47824506771265
+     - Token Holding Value(USD) : 2.69060289619321322620021752605
+     - 24-Hour Trading Volume : 0.183007830734113
+  - USDC: 1.999144
+     - Token Holding Value(USD) : 1.9997437432
+     - 24-Hour Trading Volume : 200431884.3621204
+  - DA20: 1
+  - better-gmx.eth.link: 1
+  - WETH: 0.000070737890747758
+     - Token Holding Value(USD) : 0.21760319213934568202
+     - 24-Hour Trading Volume : 1085431015.942256
+  - DXS: 0.000000034523566245
+Total ERC-20 Tokens value on ARBITRUM: 10.208348078924168 USD
+
+[Token Holding On KLAYTN]
+
+Native token balance on KLAYTN: 0 KLAY
+
+[Top Interacting Addresses on ETH Chain]
+  - 0x42edb543156a41da9237c4e3408edceb9e1f23fb : 24 interactions
+  - 0x75cd3f538c091c1d514ab1ad9832f54198cacec0 : 6 interactions
+  - 0x36e5913bf48ccbd361875d09c0a20a4c144da896 : 3 interactions
+  - 0x253553366da8546fc250f225fe3d25d0c782303b (ENS.ETH Registrar Controller) : 2 interactions
+  - 0xf6d1b85af155229acd7b523601148585a1ff67c6 : 1 interactions

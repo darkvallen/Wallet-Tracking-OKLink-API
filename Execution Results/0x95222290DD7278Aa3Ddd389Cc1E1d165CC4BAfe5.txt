@@ -1,0 +1,509 @@
+C:\Users\ACER PREDATOR\Documents>python wallet-tracking.py
+[Wallet Address]
+
+0x95222290DD7278Aa3Ddd389Cc1E1d165CC4BAfe5
+
+[Address Active Chain]
+
++------------------+-----------------+
+|  Chain Fullname  | Chain Shortname |
++------------------+-----------------+
+| Ethereum Classic |       ETC       |
+|     Ethereum     |       ETH       |
+|    BNB Chain     |       BSC       |
+|     Polygon      |     POLYGON     |
+| X Layer Testnet  |  XLAYER_TESTNET |
+|    zkSync Era    |      ZKSYNC     |
+|      Fantom      |       FTM       |
+|      KLAYTN      |      KLAYTN     |
+|   EthereumPoW    |       ETHW      |
+|      Gnosis      |      GNOSIS     |
+|  opBNB Mainnet   |      OPBNB      |
+|   Arbitrum One   |     ARBITRUM    |
+|   Avalanche-C    |      AVAXC      |
+|      LINEA       |      LINEA      |
+|  Manta Pacific   |      MANTA      |
+|      SCROLL      |      SCROLL     |
+|       BASE       |       BASE      |
+|    OP Mainnet    |        OP       |
+|  POLYGON_ZKEVM   |  POLYGON_ZKEVM  |
++------------------+-----------------+
+
+[Token Holding On ETC]
+
+Native token balance on ETC: 0.001950432925016458 ETC
+
+[Token Holding On ETH]
+
+Native token balance on ETH: 5.147808040056061863 ETH
+ERC-20 Tokens on ETH:
+  - USDT: 9000000000000000000000
+  - PIKA: 3020000000000
+  - ApeGPT: 21229378082.59345
+  - SUNTZU: 9512982666.907467
+  - HASSAN: 6945615637.9933405
+  - MANGA: 6655218060.896868
+  - CRASH: 5945396721.3377
+  - CatCRAB: 4693301995.444397
+  - PEPHEREUM: 1380272009.4547443
+  - KOJIRO: 1367129362.046866
+  - CONOR: 1283197413.9635296
+  - YAOZUI: 1269880266.0508862
+  - QAMAR: 706972353.9224361
+  - GARY: 483995900.50781214
+  - DOJO: 403020161.94844604
+  - XINU: 266488313.12349492
+  - RWO: 81754407.13784392
+  - CATARM: 69088800
+  - MAIL: 49000000
+  - SONGO: 41173484.86704288
+  - ANON: 30000000
+  - GAZE: 19400000
+  - BLUE: 900000
+  - XRP: 631358.96
+  - DEAI: 237362.58639677966
+  - $ Visit ETH200k.com to claim $200k: 200000
+  - Stoicism: 194918.416766497
+  - REEY: 100000
+     - Token Holding Value(USD) : 0.004953246022
+  - COCONUT: 59414.018285798
+  - USDT: 49549
+  - USDT: 43047.73
+  - шайлушай: 42069
+     - Token Holding Value(USD) : 4.765872045379225929
+     - Total Market Cap : 10636241.55
+     - 24-Hour Trading Volume : 1064191.4751693069
+  - Euro: 36959.65
+  - REZ: 10000
+  - HOT: 10000
+     - Token Holding Value(USD) : 24.69608391586154
+     - Total Market Cap : 428070703.05
+     - 24-Hour Trading Volume : 337312.10808195826
+  - WILD: 5017.298049239807
+  - Visit https:usdcoin.gift to claim rewards: 4999.99
+  - Visit https:usdcoin.finance to claim rewards: 4999.99
+  - Visit fetchnetwork.org to claim rewards: 4999
+  - ACX [via www.across.cash]: 4039
+  - $ Visit NFTGiftX.com to claim: 4000
+  - Visit https:usd-coin.net to claim rewards: 3999.99
+  - Visit https:usdswap.org to claim rewards: 3999.99
+  - USA: 3500
+  - XYO: 2513.74965613
+     - Token Holding Value(USD) : 20.57863175024422315481804523
+     - Total Market Cap : 109497176
+     - 24-Hour Trading Volume : 434702.45655132
+  - USDT: 1900
+  - KUTTA: 1627.6287477295457
+  - ETH: 1459.78
+  - XEN: 1337
+     - Token Holding Value(USD) : 0.000479267431408353
+     - Total Market Cap : 34473943.51
+     - 24-Hour Trading Volume : 1769592.4931187565
+  - MEME: 1118
+Total ERC-20 Tokens value on ETH: 50.046020224938395 USD
+
+[NFT Holding On ETH]
+
+  - Dont Buy Poo: 1
+  - : 2
+  - Ability Score: 1
+
+[Token Holding On BSC]
+
+Native token balance on BSC: 0.00268825238095238 BNB
+ERC-20 Tokens on BSC:
+  - MetaMoon: 4635839590.755488
+     - Token Holding Value(USD) : 2.112306402008965840736
+     - 24-Hour Trading Volume : 69.2876561083964
+  - USDT: 281531.45
+  - 16B: 6000
+  - USDT: 2109
+  - LOVELY: 1000
+     - Token Holding Value(USD) : 0.000103300091842
+     - Total Market Cap : 6941333.52
+     - 24-Hour Trading Volume : 42928.79675955188
+  - MTG: 316.1399587543348
+     - Token Holding Value(USD) : 0.1011630336673849276288939897644
+     - Total Market Cap : 320114.79
+     - 24-Hour Trading Volume : 3.694959169046093
+  - BTR: 19.97144682
+     - Token Holding Value(USD) : 0.9415481161216546124465328
+     - 24-Hour Trading Volume : 3105.008432781247
+  - PING: 1.896012942
+     - Token Holding Value(USD) : 0.001603526681773626984009636
+     - Total Market Cap : 2286418.02
+Total ERC-20 Tokens value on BSC: 3.156724378571621 USD
+
+[Token Holding On POLYGON]
+
+Native token balance on POLYGON: 4.801118812291508 MATIC
+ERC-20 Tokens on POLYGON:
+  - Visit steth.cc to swap Reward: 9000000000
+  - Jlife: 3000000000
+  - Visit pufeth.fi to participate for reward.: 900000000
+  - KURO: 2983577
+  - Claim on: swap-based.com: 250000
+  - wHEX: 188250
+  - rUSDC: 158250
+  - rUSDC: 125000
+  - www.zkfair.events: 68240
+  - www.zkfair.events: 57774
+  - Claim Rewards at https:eth-earn.net: 51859
+  - AAVE [ACCESS AAVE.ASIA]: 43767
+  - PLEXUSdrop.biz: 17205
+  - celestia.icu: 15473
+  - USDCdrop.xyz: 15000
+  - appsei.icu: 15000
+  - GET pacificdrop.org: 10000
+  - $mPEPE СLАlМ ▷ mpepe.co: 10000
+  - $ Check: gasfee.io You received a refund: 10000
+  - $USDT СLАlМ▷airUSDT.net: 10000
+  - ZIKTOKEN.COM-AIRDROPSWAP: 10000
+  - | SWAP-L2.COM | Blast L2 Rewards: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $USDT > LOOT-USDT.COM: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - USDT | www.5000usdt.info: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $USDT > LOOT-USDT.COM 🎁: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - STRK.LIVE CLAIM HERE 🎁: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - USDT | www.5000usdt.info: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - USDT | www.5000usdt.info: 10000
+  - $mPEPE СLАlМ ▷ mpepe.co: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - USDT | www.5000usdt.info: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $: 10000
+  - $USDT > LOOT-USDT.COM: 10000
+  - $USDT СLАlМ▷airUSDT.net: 10000
+  - | SWAP-L2.COM | Blast L2 Rewards: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $ Check: blastcode.io Your AirDrop Code: 10000
+  - $USDT СLАlМ▷airUSDT.net: 10000
+  -  BLASTCODE.IO |AirDrop Invite: 10000
+  - ACCESS [ETHNA.CC] TO CLAIM: 9543
+  - ACCESS [PENDLE.ONE] TO CLAIM: 9543
+Total ERC-20 Tokens value on POLYGON: 0.0 USD
+
+[NFT Holding On POLYGON]
+
+  - certificate: 1
+  - Reward Club [ljSBxjoI]: 1
+  - BenzingaxPersona: 1
+  - $.5000 BUSD NFT Voucher: 3
+  - NFT Mining: 1
+  - Opium Wonderland: 1
+  - TWIN: 1
+  - EDNS: 3
+  - NFTPort.xyz v4: 1
+  - Soulflake: 1
+  - Astronomia Meta 1669934284490: 2
+  - wbtc.fi Genesis NFT: 1
+
+[Token Holding On XLAYER_TESTNET]
+
+Native token balance on XLAYER_TESTNET: 0.0003 OKB
+
+[NFT Holding On XLAYER_TESTNET]
+
+No NFTs found on XLAYER_TESTNET
+
+[Token Holding On ZKSYNC]
+
+Native token balance on ZKSYNC: 0.00100798 ETH
+ERC-20 Tokens on ZKSYNC:
+  - pea: 100000
+  - HMOKE: 10000
+  - ENC: 10000
+  - ERA: 1520
+  - JAM: 24
+  - ZKS: 5
+  - solosram: 5
+  - NEKO: 5
+  - tst: 4
+  - : 3
+  - : 3
+  - glx: 2
+  - : 2
+  - MERK: 2
+     - Token Holding Value(USD) : 0.121339186919122488
+     - 24-Hour Trading Volume : 382.94647391675056
+  - tst: 1
+  - RIP: 1
+  - Lv: 1
+  - stnk: 1
+  - ETH: 0.00100798
+     - Token Holding Value(USD) : 3.1076426592
+     - Total Market Cap : 370235431660.65
+     - 24-Hour Trading Volume : 376142837.91234154
+  - ZKWIF: 0.00000000000001
+Total ERC-20 Tokens value on ZKSYNC: 3.2289818461191224 USD
+
+[NFT Holding On ZKSYNC]
+
+  - Era Orcas: 5
+  - Openmeta Collection NFT: 1
+  - star ace: 5
+  - zkSync Name Service: 4
+  - ReformistSphinx: 1
+  - MiA MiMi: 1
+  - HEART: 1
+  - ZkCrypto: 3
+  - zkFounds: 2
+  - Mint Square Storefront: 4
+
+[Token Holding On FTM]
+
+Native token balance on FTM: 0 FTM
+ERC-20 Tokens on FTM:
+  - Visit https:incr.fi and claim genesis airdrops.: 400000
+  - wHEX: 103575
+  - wHEX: 15082
+  - wHEX: 12308.25
+  - Visit https:gpepe.org to claim rewards.: 7500
+  - Claim USDC at https:cusdc.disusd.eth.limo: 3500
+  - Claim USDC at https:chaingeusdc.top: 2100
+  - Visit https:nbonus.xyz to claim reward: 312
+  - Visit https:susdc.dev to claim rewards: 220
+  - tLINK: 198.15
+  - : 3
+Total ERC-20 Tokens value on FTM: 0.0 USD
+
+[Token Holding On KLAYTN]
+
+Native token balance on KLAYTN: 0.8 KLAY
+ERC-20 Tokens on KLAYTN:
+  - firstchef.net: 600000000
+  - hoppytoken.org: 100000000
+  - Claim USDC at https://cusdcs.eth.li: 1300
+  - worldcoin.pm: 290
+Total ERC-20 Tokens value on KLAYTN: 0.0 USD
+
+[Token Holding On ETHW]
+
+Native token balance on ETHW: 2.72221171 ETHW
+
+[Token Holding On GNOSIS]
+
+Native token balance on GNOSIS: 0.0058 xDAI
+ERC-20 Tokens on GNOSIS:
+  - SHIB: 20420000000
+  - SHIB: 7007500000
+  - SHIB: 1137500000
+  - SHIB: 677500000
+  - ftxrebase.eth.li: 600000000
+  - SHIB: 522500000
+  - SHIB: 425000000
+  - SHIB: 12500000
+  - SHIB: 5000000
+  - SHIB: 5000000
+  - SHIB: 2500000
+  - SHIB: 1000000
+  - SHIB: 250000
+  - USDT: 110000
+  - USDT: 20000
+  - USDT: 20000
+  - USD: 20000
+  - USDT: 10000
+  - USDT: 10000
+  - celestia.icu: 2560
+  - claim www.memecoin.company: 1313
+  - Claim www.celestia.icu: 147
+  - USDC: 7
+  - PLEXUS-drop.top: 7
+Total ERC-20 Tokens value on GNOSIS: 0.0 USD
+
+[Token Holding On OPBNB]
+
+Native token balance on OPBNB: 0 BNB
+ERC-20 Tokens on OPBNB:
+  - : 3
+  - : 3
+  - : 2
+Total ERC-20 Tokens value on OPBNB: 0.0 USD
+
+[Token Holding On ARBITRUM]
+
+Native token balance on ARBITRUM: 0.0009854049695 ETH
+ERC-20 Tokens on ARBITRUM:
+  - Claim $ENS rewards at https:enstoken.io: 14000
+  - TA: 13177.6280007588
+  - Rk: 10000
+  - POP: 1635.8921
+  - TAU: 1562
+  - ZAT: 1548
+  - HA: 1542
+  - TTK: 1006.652399
+  - TTA: 230.428631
+  - $SHARBI: 200
+     - Token Holding Value(USD) : 0.0000050744277514
+     - 24-Hour Trading Volume : 2166.1868099509325
+  - SUP: 173.04713
+  - CAC: 155.518
+  - Claim $wBTC rewards at https:wbtc.fi: 125
+  - TAM: 117.41
+  - TAKK: 100.413521
+  - : 3
+  - : 2
+  - USDT: 0.001982
+     - Token Holding Value(USD) : 0.00198330812
+     - Total Market Cap : 110681501901.21
+     - 24-Hour Trading Volume : 355001842.27815735
+Total ERC-20 Tokens value on ARBITRUM: 0.0019883825477514 USD
+
+[Token Holding On AVAXC]
+
+Native token balance on AVAXC: 0 AVAX
+ERC-20 Tokens on AVAXC:
+  - SPORE: 129387406754.83469
+     - Token Holding Value(USD) : 4.22595819110614040896851
+     - Total Market Cap : 1048337.24
+     - 24-Hour Trading Volume : 766.5807943036754
+  - COQ: 1003094.5724589764
+     - Token Holding Value(USD) : 2.8343365410943127746937513596
+     - Total Market Cap : 196085722.35
+     - 24-Hour Trading Volume : 2828283.3305473453
+Total ERC-20 Tokens value on AVAXC: 7.060294732200453 USD
+
+[Token Holding On LINEA]
+
+Native token balance on LINEA: 0.0004399 ETH
+ERC-20 Tokens on LINEA:
+  - zro: 15151
+  - flower: 1350
+  - w24r: 466
+  - 1515: 222
+  - grls: 55
+  - : 3
+  - glx: 2
+  - : 2
+Total ERC-20 Tokens value on LINEA: 0.0 USD
+
+[Token Holding On MANTA]
+
+Native token balance on MANTA: 0 ETH
+ERC-20 Tokens on MANTA:
+  - tree: 890
+  - VENUS: 61
+  - lst: 3
+  - glx: 2
+  - STONE: 0.0249117715380754
+     - Token Holding Value(USD) : 77.76107363188187012472395160776
+     - 24-Hour Trading Volume : 34624721.93448164
+Total ERC-20 Tokens value on MANTA: 77.76107363188187 USD
+
+[NFT Holding On MANTA]
+
+No NFTs found on MANTA
+
+[Token Holding On SCROLL]
+
+Native token balance on SCROLL: 0.00000352 ETH
+ERC-20 Tokens on SCROLL:
+  - bill: 250000
+  - bzk: 222221
+  - mat: 100001
+  - cake: 66666
+  - dxb: 36000
+  - lulu: 25000
+  - tso: 20002
+  - web: 20000
+  - bus: 1234
+  - : 1000
+  - MACS: 98
+  - 🌞: 10
+  - solosram: 10
+  - : 3
+  - : 3
+  - : 3
+  - : 2
+  - glx: 2
+  - CAT: 0.001
+  - SCROLLWIF: 0.000000000000025
+Total ERC-20 Tokens value on SCROLL: 0.0 USD
+
+[NFT Holding On SCROLL]
+
+No NFTs found on SCROLL
+
+[Token Holding On BASE]
+
+Native token balance on BASE: 0.000592232660556358 ETH
+ERC-20 Tokens on BASE:
+  - SHIB: 86769571998.13889
+  - BSB: 77972133683.01465
+  - PAUA: 100000000
+  - toby: 29577464
+     - Token Holding Value(USD) : 0.899511316673594296
+     - Total Market Cap : 12309340.22
+     - 24-Hour Trading Volume : 20045.592508620826
+  - PAUA: 21000000
+     - Token Holding Value(USD) : 0.067680246879
+  - Airdrop: degen.gifts/?claim: 3645170
+  - FtxRebase: 2000000
+     - Token Holding Value(USD) : 0.00000119331
+  - Claim: toshi-thecat.com/?claim: 1752393
+  - Claim: brettbased.com: 354291
+  - Airdrop on: brettbased.com: 273108
+  - BAS: 3500
+  - : 1000
+  - Fren Pet: 100
+     - Token Holding Value(USD) : 560.9926330156689
+     - 24-Hour Trading Volume : 25650.860842591053
+  - BASE: 15
+  - solosram: 5
+  - : 3
+  - : 3
+  - : 2
+  - glx: 2
+  - as: 1
+  - BOOMER: 0.168
+     - Token Holding Value(USD) : 0.00619722069962012304
+     - 24-Hour Trading Volume : 662786.8710045932
+Total ERC-20 Tokens value on BASE: 561.966022993231 USD
+
+[Token Holding On OP]
+
+Native token balance on OP: 0.0000667 ETH
+ERC-20 Tokens on OP:
+  - BRC-20.WS: 43767
+  - AAVE [ACCESS AAVE.ASIA]: 43767
+  - SKL: 3
+  - : 3
+  - : 2
+  - USDC.e: 2
+     - Token Holding Value(USD) : 2.0006
+     - 24-Hour Trading Volume : 227812033.79243177
+Total ERC-20 Tokens value on OP: 2.0006 USD
+
+[NFT Holding On OP]
+
+No NFTs found on OP
+
+[Token Holding On POLYGON_ZKEVM]
+
+Native token balance on POLYGON_ZKEVM: 0.0000051 ETH
+ERC-20 Tokens on POLYGON_ZKEVM:
+  - Poly: 850
+  - solosram: 10
+  - : 3
+  - : 3
+  - glx: 2
+  - : 2
+Total ERC-20 Tokens value on POLYGON_ZKEVM: 0.0 USD
+
+[NFT Holding On POLYGON_ZKEVM]
+
+No NFTs found on POLYGON_ZKEVM
+
+[Top Interacting Addresses on ETH Chain]
+  - 0x95222290dd7278aa3ddd389cc1e1d165cc4bafe5 : 10000 interactions
+  - 0x388c818ca8b9251b393131c08a736a67ccb19297 (Lido.Execution Layer Rewards Vault) : 2320 interactions
+  - 0x4675c7e5baafbffbca748158becba61ef3b0a263 : 900 interactions
+  - 0x22eec85ba6a5cd97ead4728ea1c69e1d9c6fa778 : 393 interactions
+  - 0xebec795c9c8bbd61ffc14a6662944748f299cacf : 341 interactions
